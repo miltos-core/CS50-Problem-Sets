@@ -1,0 +1,11 @@
+sort1 uses: Bubble
+
+How do you know?: This sorting system's time was somwhere in the middle in between the other two. Bubble sort is also faster than selection sort and slower than merge sort with an O(n^2) worst-case time complexity and o(n) best case time complexity.
+
+sort2 uses: Merge
+
+How do you know?: This was the quickest sorting method out of all 3 and since merge sort has a time complexity of O(n log n), that makes it the quickes of the other sorting methods.
+
+sort3 uses: Selection
+
+How do you know?: Based on the data which was received by running each file with this sorting method , this was the slowest one. Selection sort is the slowest way to sort when compared to the other methods. It has a time complexity of O(n^2). Also it should be mentiond that there was minimal time difference when running sorted and reversed data.
